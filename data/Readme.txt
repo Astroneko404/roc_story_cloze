@@ -1,0 +1,1 @@
+This was mentioned in the announcement but once again, please don't use this data outside of this project. If you want to use the Story Cloze data, request it from the authors here https://www.cs.rochester.edu/nlp/rocstories/
